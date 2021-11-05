@@ -1,0 +1,258 @@
+ALLID	MSPD	MSW	TSLW	MSPW	PGW	MSPL	Phylum	Name
+OTU_19171	-1.30459						Unclassified	OTU_19171|k Bacteria
+OTU_204						0.6066	Unclassified	OTU_204|k Bacteria
+OTU_21334				0.6802	0.7219		Unclassified	OTU_21334|k Bacteria
+OTU_23684			-0.0324057				Unclassified	OTU_23684|k Bacteria
+OTU_4108			0.0431896				Unclassified	OTU_4108|k Bacteria
+OTU_4289						-0.6482	Unclassified	OTU_4289|k Bacteria
+OTU_6388				0.4661			Unclassified	OTU_6388|k Bacteria
+OTU_6431	0.82756						Unclassified	OTU_6431|k Bacteria
+OTU_676				-0.4887	-0.6379		Unclassified	OTU_676|k Bacteria
+OTU_77	-1.0818						Unclassified	OTU_77|k Bacteria
+OTU_859	-1.1382						Unclassified	OTU_859|k Bacteria
+OTU_100		0.17747					Unclassified	OTU_100|k Bacteria
+OTU_155	0.62652						Unclassified	OTU_155|k Bacteria
+OTU_16754					0.4422		Unclassified	OTU_16754|k Bacteria
+OTU_127		0.19325					Acidobacteria	OTU_127|g Blastocatella
+OTU_148						0.6323	Acidobacteria	OTU_148|g Blastocatella
+OTU_205				-1.0359	-0.5514	-0.4978	Acidobacteria	OTU_205|g Gp10
+OTU_219		0.15273					Acidobacteria	OTU_219|g Gp3
+OTU_2422	-0.84397						Acidobacteria	OTU_2422|g Gp3
+OTU_25134					0.3877		Acidobacteria	OTU_25134|g Gp3
+OTU_25463		-0.24974					Acidobacteria	OTU_25463|g Gp3
+OTU_493	1.0071	0.11242					Acidobacteria	OTU_493|g Gp3
+OTU_798		-0.19821					Acidobacteria	OTU_798|g Gp3
+OTU_24028	-1.82571						Acidobacteria	OTU_24028|g Gp4
+OTU_25	1.46931						Acidobacteria	OTU_25|g Gp4
+OTU_10646		-0.17627					Acidobacteria	OTU_10646|g Gp6
+OTU_16396		0.31523					Acidobacteria	OTU_16396|g Gp6
+OTU_16465	2.84366	0.55127					Acidobacteria	OTU_16465|g Gp6
+OTU_17208		-0.13269					Acidobacteria	OTU_17208|g Gp6
+OTU_17600		-0.37567					Acidobacteria	OTU_17600|g Gp6
+OTU_19284		-0.3225					Acidobacteria	OTU_19284|g Gp6
+OTU_20590		0.28811				0.7655	Acidobacteria	OTU_20590|g Gp6
+OTU_2144		-0.24487					Acidobacteria	OTU_2144|g Gp6
+OTU_21573						-0.8004	Acidobacteria	OTU_21573|g Gp6
+OTU_21968	-0.82441						Acidobacteria	OTU_21968|g Gp6
+OTU_22329						1.0798	Acidobacteria	OTU_22329|g Gp6
+OTU_22673	1.03685					-1.0338	Acidobacteria	OTU_22673|g Gp6
+OTU_24870		-0.39359					Acidobacteria	OTU_24870|g Gp6
+OTU_2750		0.2322					Acidobacteria	OTU_2750|g Gp6
+OTU_28080		-0.31764					Acidobacteria	OTU_28080|g Gp6
+OTU_28378						0.8879	Acidobacteria	OTU_28378|g Gp6
+OTU_3745						-0.4451	Acidobacteria	OTU_3745|g Gp6
+OTU_51	-0.88484						Acidobacteria	OTU_51|g Gp6
+OTU_87	0.6695	0.20262					Acidobacteria	OTU_87|g Gp6
+OTU_88	-1.43465	-0.34236	-0.0368583				Acidobacteria	OTU_88|g Gp6
+OTU_9000		0.23862					Acidobacteria	OTU_9000|g Gp6
+OTU_9170		0.29383					Acidobacteria	OTU_9170|g Gp6
+OTU_22948	0.79478						Acidobacteria	OTU_22948|g Gp7
+OTU_69		0.55311					Acidobacteria	OTU_69|g Gp7
+OTU_25484	-0.6065						Actinobacteria	OTU_25484|f Geodermatophilaceae
+OTU_22251						-0.3045	Actinobacteria	OTU_22251|f Micrococcaceae
+OTU_16737				-0.5101	-0.409		Actinobacteria	OTU_16737|f Micromonosporaceae
+OTU_10210			0.0001661				Actinobacteria	OTU_10210|f Pseudonocardiaceae
+OTU_12096			0.0009202	0.3181			Actinobacteria	OTU_12096|f Pseudonocardiaceae
+OTU_1735				0.8742			Actinobacteria	OTU_1735|f Pseudonocardiaceae
+OTU_21466					-0.8318		Actinobacteria	OTU_21466|f Pseudonocardiaceae
+OTU_28438				0.6931			Actinobacteria	OTU_28438|f Pseudonocardiaceae
+OTU_452						-0.4326	Actinobacteria	OTU_452|c Actinobacteria
+OTU_129	0.93651				-0.5202		Actinobacteria	OTU_129|g Actinophytocola
+OTU_625				-0.9032	-0.6804	-0.6294	Actinobacteria	OTU_625|g Actinoplanes
+OTU_18		0.19406		-1.1815			Actinobacteria	OTU_18|g Aeromicrobium
+OTU_22257		0.16875		-0.7285			Actinobacteria	OTU_22257|g Amycolatopsis
+OTU_265			-0.0348153	0.6453			Actinobacteria	OTU_265|g Amycolatopsis
+OTU_147					-0.57		Actinobacteria	OTU_147|g Conexibacter
+OTU_1817			-0.0177297				Actinobacteria	OTU_1817|g Crossiella
+OTU_74		-0.32794					Actinobacteria	OTU_74|g Friedmanniella
+OTU_78			-0.0448548				Actinobacteria	OTU_78|g Gaiella
+OTU_318						-0.8273	Actinobacteria	OTU_318|g Geodermatophilus
+OTU_397		-0.07597		0.8328	0.6243		Actinobacteria	OTU_397|g Ilumatobacter
+OTU_28653						0.5683	Actinobacteria	OTU_28653|g Janibacter
+OTU_11372	0.96216	0.37073					Actinobacteria	OTU_11372|g Kitasatospora
+OTU_13220	-0.72509		-0.0395453				Actinobacteria	OTU_13220|g Kitasatospora
+OTU_26487	0.91368						Actinobacteria	OTU_26487|g Kitasatospora
+OTU_2749		-0.30557					Actinobacteria	OTU_2749|g Kitasatospora
+OTU_28317		0.25255					Actinobacteria	OTU_28317|g Kitasatospora
+OTU_8	0.74233						Actinobacteria	OTU_8|g Kitasatospora
+OTU_15881	-0.91283	-0.32212					Actinobacteria	OTU_15881|g Kribbella
+OTU_117					1.2553		Actinobacteria	OTU_117|g Lechevalieria
+OTU_24323				-1.2427	-0.4646		Actinobacteria	OTU_24323|g Lechevalieria
+OTU_4				-1.2245	-0.8713		Actinobacteria	OTU_4|g Lentzea
+OTU_31			0.0307034				Actinobacteria	OTU_31|g Microbacterium
+OTU_11612			-0.0306231				Actinobacteria	OTU_11612|g Nocardioides
+OTU_13118				-0.515			Actinobacteria	OTU_13118|g Nocardioides
+OTU_213				0.5296			Actinobacteria	OTU_213|g Nocardioides
+OTU_23			0.0440671	0.984			Actinobacteria	OTU_23|g Nocardioides
+OTU_3689				0.4401			Actinobacteria	OTU_3689|g Nocardioides
+OTU_71		-0.15302		0.951	0.4741		Actinobacteria	OTU_71|g Nonomuraea
+OTU_80						1.0724	Actinobacteria	OTU_80|g Phycicoccus
+OTU_136			0.0518604	-1.0316			Actinobacteria	OTU_136|g Pseudonocardia
+OTU_3030				0.983			Actinobacteria	OTU_3030|g Solirubrobacter
+OTU_19141	-1.62083						Actinobacteria	OTU_19141|g Sporichthya
+OTU_1235	-0.62889						Actinobacteria	OTU_1235|g Streptomyces
+OTU_2385			0.058871				Actinobacteria	OTU_2385|g Streptomyces
+OTU_25735			0.0184871				Actinobacteria	OTU_25735|g Streptomyces
+OTU_26647	-0.81497						Actinobacteria	OTU_26647|g Streptomyces
+OTU_27736	-0.65562						Actinobacteria	OTU_27736|g Streptomyces
+OTU_107					-0.4044		Actinobacteria	OTU_107|o Acidimicrobiales
+OTU_191			-0.0390752				Actinobacteria	OTU_191|o Actinomycetales
+OTU_2756	-1.61054	-0.49303					Actinobacteria	OTU_2756|o Actinomycetales
+OTU_3519				1.5217	1.0931		Actinobacteria	OTU_3519|o Actinomycetales
+OTU_4297				0.4832			Actinobacteria	OTU_4297|o Actinomycetales
+OTU_571					0.8865		Actinobacteria	OTU_571|o Actinomycetales
+OTU_96			0.0476868				Actinobacteria	OTU_96|o Solirubrobacterales
+OTU_63			0.0302765				Armatimonadetes	OTU_63|g gp3
+OTU_10255				0.8676			Bacteroidetes	OTU_10255|f Chitinophagaceae
+OTU_1219			0.0240516				Bacteroidetes	OTU_1219|f Chitinophagaceae
+OTU_162	1.3582						Bacteroidetes	OTU_162|f Chitinophagaceae
+OTU_2653				0.3371			Bacteroidetes	OTU_2653|f Chitinophagaceae
+OTU_26869		0.18758					Bacteroidetes	OTU_26869|f Chitinophagaceae
+OTU_79		-0.11158					Bacteroidetes	OTU_79|f Chitinophagaceae
+OTU_975					-0.4467		Bacteroidetes	OTU_975|f Chitinophagaceae
+OTU_44	0.91991						Bacteroidetes	OTU_44|g Adhaeribacter
+OTU_26494					-0.231		Bacteroidetes	OTU_26494|g Chitinophaga
+OTU_295				-0.4773	-0.3144		Bacteroidetes	OTU_295|g Chitinophaga
+OTU_34						0.9038	Bacteroidetes	OTU_34|g Chitinophaga
+OTU_22820		-0.25551				0.2719	Bacteroidetes	OTU_22820|g Dyadobacter
+OTU_9087						-0.6112	Bacteroidetes	OTU_9087|g Ferruginibacter
+OTU_91				-0.4051			Bacteroidetes	OTU_91|g Ferruginibacter
+OTU_14661	-0.64376						Bacteroidetes	OTU_14661|g Flavisolibacter
+OTU_1595	-1.11676						Bacteroidetes	OTU_1595|g Flavisolibacter
+OTU_17	0.68771						Bacteroidetes	OTU_17|g Flavisolibacter
+OTU_28619	1.28175						Bacteroidetes	OTU_28619|g Flavisolibacter
+OTU_29028	1.12037	0.26141					Bacteroidetes	OTU_29028|g Flavisolibacter
+OTU_38	-0.36464						Bacteroidetes	OTU_38|g Flavitalea
+OTU_277			0.0189675				Bacteroidetes	OTU_277|g Flavobacterium
+OTU_196			0.0155632				Bacteroidetes	OTU_196|g Lacibacter
+OTU_20169						-0.4689	Bacteroidetes	OTU_20169|g Niastella
+OTU_192				-0.4057			Bacteroidetes	OTU_192|g Ohtaekwangia
+OTU_22040					0.595		Bacteroidetes	OTU_22040|g Ohtaekwangia
+OTU_3226					-0.667	-0.4923	Bacteroidetes	OTU_3226|g Ohtaekwangia
+OTU_49				-0.6735	-0.5285		Bacteroidetes	OTU_49|g Ohtaekwangia
+OTU_5795					0.6501		Bacteroidetes	OTU_5795|g Ohtaekwangia
+OTU_72			-0.0457629				Bacteroidetes	OTU_72|g Ohtaekwangia
+OTU_177	-0.90389						Bacteroidetes	OTU_177|g Pontibacter
+OTU_533					0.4929		Bacteroidetes	OTU_533|g Solitalea
+OTU_16	0.58787	0.18147					Bacteroidetes	OTU_16|g Terrimonas
+OTU_22983				0.8046			Bacteroidetes	OTU_22983|g Terrimonas
+OTU_24744		-0.21978					Bacteroidetes	OTU_24744|g Terrimonas
+OTU_2834				0.9188	0.5161		Bacteroidetes	OTU_2834|g Terrimonas
+OTU_386		0.23223					Bacteroidetes	OTU_386|o Sphingobacteriales
+OTU_193					-0.4541		candidate division WPS-1	OTU_193|g WPS-1
+OTU_418					0.4573	-1.1964	candidate division WPS-2	OTU_418|g WPS-2
+OTU_652					-0.479		candidate division WPS-2	OTU_652|g WPS-2
+OTU_7535						-0.2948	Chloroflexi	OTU_7535|f Anaerolineaceae
+OTU_25517						0.5642	Chloroflexi	OTU_25517|g Longilinea
+OTU_19207				-1.293			Firmicutes	OTU_19207|c Clostridia
+OTU_12129		-0.29001					Firmicutes	OTU_12129|f Bacillaceae
+OTU_15598		0.29997					Firmicutes	OTU_15598|f Bacillaceae
+OTU_19835	-1.09925						Firmicutes	OTU_19835|f Bacillaceae
+OTU_22216					0.4749		Firmicutes	OTU_22216|f Bacillaceae
+OTU_22228					0.3431		Firmicutes	OTU_22228|f Bacillaceae
+OTU_22288		0.25793					Firmicutes	OTU_22288|f Bacillaceae
+OTU_24419	-0.89008	-0.20215					Firmicutes	OTU_24419|f Bacillaceae
+OTU_27554	1.07892	0.2654					Firmicutes	OTU_27554|f Bacillaceae
+OTU_27556				-0.3191	-0.4256		Firmicutes	OTU_27556|f Bacillaceae
+OTU_27966			-0.0539392				Firmicutes	OTU_27966|f Bacillaceae
+OTU_28133		-0.30044					Firmicutes	OTU_28133|f Bacillaceae
+OTU_28807	-1.41294	-0.47868					Firmicutes	OTU_28807|f Bacillaceae
+OTU_6683		-0.21793					Firmicutes	OTU_6683|f Bacillaceae1
+OTU_27607	-0.11415						Firmicutes	OTU_27607|f Planococcaceae
+OTU_4905	-0.97878						Firmicutes	OTU_4905|f Planococcaceae
+OTU_11183		0.2123					Firmicutes	OTU_11183|g Bacillus
+OTU_19376		-0.17591		-0.719			Firmicutes	OTU_19376|g Bacillus
+OTU_19414			0.0404812				Firmicutes	OTU_19414|g Bacillus
+OTU_20216			0.0241374	0.307			Firmicutes	OTU_20216|g Bacillus
+OTU_22143					0.8412		Firmicutes	OTU_22143|g Bacillus
+OTU_25704	1.03957	0.14435					Firmicutes	OTU_25704|g Bacillus
+OTU_25881					-0.3888		Firmicutes	OTU_25881|g Bacillus
+OTU_27582		0.12916					Firmicutes	OTU_27582|g Bacillus
+OTU_381				0.4338			Firmicutes	OTU_381|g Bacillus
+OTU_3940		0.20014					Firmicutes	OTU_3940|g Bacillus
+OTU_54					-0.7098		Firmicutes	OTU_54|g Bacillus
+OTU_6832		-0.34029					Firmicutes	OTU_6832|g Bacillus
+OTU_28332	0.79618						Firmicutes	OTU_28332|g Falsibacillus
+OTU_342					-0.3774		Firmicutes	OTU_342|g Terribacillus
+OTU_11945					0.6701		Firmicutes	OTU_11945|o Bacillales
+OTU_22539			0.0429976				Firmicutes	OTU_22539|o Bacillales
+OTU_29		0.19439					Firmicutes	OTU_29|o Clostridiales
+OTU_59						0.4111	Gemmatimonadetes	OTU_59|g Gemmatimonas
+OTU_14101			-0.0556414				Latescibacteria	OTU_14101|g Latescibacteria
+OTU_172				-0.7031			Nitrospirae	OTU_172|g Nitrospira
+OTU_242						-0.5517	Nitrospirae	OTU_242|g Nitrospira
+OTU_346		0.18912					Planctomycetes	OTU_346|g Zavarzinella
+OTU_1001	-0.51705						Proteobacteria	OTU_1001|c Alphaproteobacteria
+OTU_297				-0.4264			Proteobacteria	OTU_297|c Alphaproteobacteria
+OTU_5004						0.5059	Proteobacteria	OTU_5004|c Alphaproteobacteria
+OTU_203		-0.1961					Proteobacteria	OTU_203|c Betaproteobacteria
+OTU_9					-1.0184		Proteobacteria	OTU_9|c Betaproteobacteria
+OTU_228			-0.0298975				Proteobacteria	OTU_228|c Deltaproteobacteria
+OTU_15520					-1.2617		Proteobacteria	OTU_15520|c Gammaproteobacteria
+OTU_6073					0.5355		Proteobacteria	OTU_6073|c Gammaproteobacteria
+OTU_11342			-0.0230796				Proteobacteria	OTU_11342|f Comamonadaceae
+OTU_23110		0.22638					Proteobacteria	OTU_23110|f Comamonadaceae
+OTU_25445				-0.6571			Proteobacteria	OTU_25445|f Comamonadaceae
+OTU_5262				0.4642			Proteobacteria	OTU_5262|f Comamonadaceae
+OTU_8037						-0.3848	Proteobacteria	OTU_8037|f Comamonadaceae
+OTU_19907		-0.11487					Proteobacteria	OTU_19907|f Erythrobacteraceae
+OTU_67				0.773	0.9861		Proteobacteria	OTU_67|f Erythrobacteraceae
+OTU_14413					0.6363		Proteobacteria	OTU_14413|f Rhizobiaceae
+OTU_19369						-0.7799	Proteobacteria	OTU_19369|f Rhizobiaceae
+OTU_229	0.67135						Proteobacteria	OTU_229|f Rhodocyclaceae
+OTU_167			0.0225799				Proteobacteria	OTU_167|f Syntrophobacteraceae
+OTU_10146					1.0889		Proteobacteria	OTU_10146|f Xanthomonadaceae
+OTU_46		0.35015					Proteobacteria	OTU_46|g Acidovorax
+OTU_22618			-0.0409785			-0.975	Proteobacteria	OTU_22618|g Altererythrobacter
+OTU_1061				-0.8308			Proteobacteria	OTU_1061|g Aquabacterium
+OTU_21452					-0.4466		Proteobacteria	OTU_21452|g Aquabacterium
+OTU_178			0.0234083				Proteobacteria	OTU_178|g Asticcacaulis
+OTU_20	0.69639						Proteobacteria	OTU_20|g Bradyrhizobium
+OTU_152				-0.329			Proteobacteria	OTU_152|g Byssovorax
+OTU_5219				-0.7972			Proteobacteria	OTU_5219|g Byssovorax
+OTU_84					-0.412		Proteobacteria	OTU_84|g Byssovorax
+OTU_156						0.5308	Proteobacteria	OTU_156|g Cystobacter
+OTU_2516						0.4484	Proteobacteria	OTU_2516|g Devosia
+OTU_66						0.8961	Proteobacteria	OTU_66|g Ensifer
+OTU_1325		0.32299					Proteobacteria	OTU_1325|g Haliangium
+OTU_194						-0.8086	Proteobacteria	OTU_194|g Haliangium
+OTU_429		-0.36133					Proteobacteria	OTU_429|g Herbaspirillum
+OTU_16392		0.38802					Proteobacteria	OTU_16392|g Hyphomicrobium
+OTU_16807				0.5416			Proteobacteria	OTU_16807|g Lysobacter
+OTU_85			0.0452561				Proteobacteria	OTU_85|g Lysobacter
+OTU_336				-0.3898			Proteobacteria	OTU_336|g Massilia
+OTU_20156		-0.19861					Proteobacteria	OTU_20156|g Mesorhizobium
+OTU_22					-0.802		Proteobacteria	OTU_22|g Mesorhizobium
+OTU_2704		-0.3496					Proteobacteria	OTU_2704|g Mesorhizobium
+OTU_27604	-0.99192	-0.26683					Proteobacteria	OTU_27604|g Mesorhizobium
+OTU_364		0.35257					Proteobacteria	OTU_364|g Nannocystis
+OTU_559			0.0521865				Proteobacteria	OTU_559|g Nannocystis
+OTU_119						-0.5626	Proteobacteria	OTU_119|g Nitrosospira
+OTU_26546						0.6322	Proteobacteria	OTU_26546|g Nitrosospira
+OTU_81						1.2234	Proteobacteria	OTU_81|g Phenylobacterium
+OTU_25453					-0.5652		Proteobacteria	OTU_25453|g Porphyrobacter
+OTU_9567		-0.07779					Proteobacteria	OTU_9567|g Rhizobacter
+OTU_226						-0.6732	Proteobacteria	OTU_226|g Rhizobium
+OTU_1651				0.8402			Proteobacteria	OTU_1651|g Rubrivivax
+OTU_37			-0.0372668	-0.8571	-0.8282		Proteobacteria	OTU_37|g Shinella
+OTU_174			-0.0185065				Proteobacteria	OTU_174|g Sorangium
+OTU_18001			-0.0182924				Proteobacteria	OTU_18001|g Sphingomonas
+OTU_421			-0.0305785				Proteobacteria	OTU_421|g Sphingopyxis
+OTU_0	-1.8628						Proteobacteria	OTU_0|g Steroidobacter
+OTU_15587					0.6346		Proteobacteria	OTU_15587|g Steroidobacter
+OTU_18464					0.5463		Proteobacteria	OTU_18464|g Steroidobacter
+OTU_20057			0.0327101				Proteobacteria	OTU_20057|g Steroidobacter
+OTU_23941				0.625	0.6394		Proteobacteria	OTU_23941|g Steroidobacter
+OTU_24703			0.032027				Proteobacteria	OTU_24703|g Steroidobacter
+OTU_472	0.4515	0.18113					Proteobacteria	OTU_472|g Tepidimonas
+OTU_200						-0.5957	Proteobacteria	OTU_200|g Vasilyevaea
+OTU_171						-0.5455	Proteobacteria	OTU_171|o Rhizobiales
+OTU_20065						0.6682	Proteobacteria	OTU_20065|o Syntrophobacterales
+OTU_24					0.6636		Proteobacteria	OTU_24|o Xanthomonadales
+OTU_5117						-0.7137	Proteobacteria	OTU_5117|p Proteobacteria
+OTU_10712		0.12611			0.3124		Thaumarchaeota	OTU_10712|g Nitrososphaera
+OTU_18308					-0.8134		Thaumarchaeota	OTU_18308|g Nitrososphaera
+OTU_26575	0.64466	-0.24757					Thaumarchaeota	OTU_26575|g Nitrososphaera
+OTU_302	0.04495						Verrucomicrobia	OTU_302|g Alterococcus
+OTU_75					0.5621		Verrucomicrobia	OTU_75|g Opitutus
+OTU_669						0.4274	Verrucomicrobia	OTU_669|p Verrucomicrobia

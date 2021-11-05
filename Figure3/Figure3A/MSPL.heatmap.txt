@@ -1,0 +1,271 @@
+DATASET_HEATMAP
+SEPARATOR TAB
+DATASET_LABEL	MSPL
+COLOR	#ff0000
+FIELD_LABELS	MSPL
+MARGIN	0
+STRIP_WIDTH	25
+SHOW_INTERNAL	0
+SHOW_TREE	1
+COLOR_MIN	#0000FF
+COLOR_MAX	#FF0000
+USE_MID_COLOR	1
+COLOR_MID	#ffff00
+DATA
+OTU_19171|k_Bacteria	
+OTU_204|k_Bacteria	0.6066
+OTU_21334|k_Bacteria	
+OTU_23684|k_Bacteria	
+OTU_4108|k_Bacteria	
+OTU_4289|k_Bacteria	-0.6482
+OTU_6388|k_Bacteria	
+OTU_6431|k_Bacteria	
+OTU_676|k_Bacteria	
+OTU_77|k_Bacteria	
+OTU_859|k_Bacteria	
+OTU_100|k_Bacteria	
+OTU_155|k_Bacteria	
+OTU_16754|k_Bacteria	
+OTU_127|g_Blastocatella	
+OTU_148|g_Blastocatella	0.6323
+OTU_205|g_Gp10	-0.4978
+OTU_219|g_Gp3	
+OTU_2422|g_Gp3	
+OTU_25134|g_Gp3	
+OTU_25463|g_Gp3	
+OTU_493|g_Gp3	
+OTU_798|g_Gp3	
+OTU_24028|g_Gp4	
+OTU_25|g_Gp4	
+OTU_10646|g_Gp6	
+OTU_16396|g_Gp6	
+OTU_16465|g_Gp6	
+OTU_17208|g_Gp6	
+OTU_17600|g_Gp6	
+OTU_19284|g_Gp6	
+OTU_20590|g_Gp6	0.7655
+OTU_2144|g_Gp6	
+OTU_21573|g_Gp6	-0.8004
+OTU_21968|g_Gp6	
+OTU_22329|g_Gp6	1.0798
+OTU_22673|g_Gp6	-1.0338
+OTU_24870|g_Gp6	
+OTU_2750|g_Gp6	
+OTU_28080|g_Gp6	
+OTU_28378|g_Gp6	0.8879
+OTU_3745|g_Gp6	-0.4451
+OTU_51|g_Gp6	
+OTU_87|g_Gp6	
+OTU_88|g_Gp6	
+OTU_9000|g_Gp6	
+OTU_9170|g_Gp6	
+OTU_22948|g_Gp7	
+OTU_69|g_Gp7	
+OTU_25484|f_Geodermatophilaceae	
+OTU_22251|f_Micrococcaceae	-0.3045
+OTU_16737|f_Micromonosporaceae	
+OTU_10210|f_Pseudonocardiaceae	
+OTU_12096|f_Pseudonocardiaceae	
+OTU_1735|f_Pseudonocardiaceae	
+OTU_21466|f_Pseudonocardiaceae	
+OTU_28438|f_Pseudonocardiaceae	
+OTU_452|c_Actinobacteria	-0.4326
+OTU_129|g_Actinophytocola	
+OTU_625|g_Actinoplanes	-0.6294
+OTU_18|g_Aeromicrobium	
+OTU_22257|g_Amycolatopsis	
+OTU_265|g_Amycolatopsis	
+OTU_147|g_Conexibacter	
+OTU_1817|g_Crossiella	
+OTU_74|g_Friedmanniella	
+OTU_78|g_Gaiella	
+OTU_318|g_Geodermatophilus	-0.8273
+OTU_397|g_Ilumatobacter	
+OTU_28653|g_Janibacter	0.5683
+OTU_11372|g_Kitasatospora	
+OTU_13220|g_Kitasatospora	
+OTU_26487|g_Kitasatospora	
+OTU_2749|g_Kitasatospora	
+OTU_28317|g_Kitasatospora	
+OTU_8|g_Kitasatospora	
+OTU_15881|g_Kribbella	
+OTU_117|g_Lechevalieria	
+OTU_24323|g_Lechevalieria	
+OTU_4|g_Lentzea	
+OTU_31|g_Microbacterium	
+OTU_11612|g_Nocardioides	
+OTU_13118|g_Nocardioides	
+OTU_213|g_Nocardioides	
+OTU_23|g_Nocardioides	
+OTU_3689|g_Nocardioides	
+OTU_71|g_Nonomuraea	
+OTU_80|g_Phycicoccus	1.0724
+OTU_136|g_Pseudonocardia	
+OTU_3030|g_Solirubrobacter	
+OTU_19141|g_Sporichthya	
+OTU_1235|g_Streptomyces	
+OTU_2385|g_Streptomyces	
+OTU_25735|g_Streptomyces	
+OTU_26647|g_Streptomyces	
+OTU_27736|g_Streptomyces	
+OTU_107|o_Acidimicrobiales	
+OTU_191|o_Actinomycetales	
+OTU_2756|o_Actinomycetales	
+OTU_3519|o_Actinomycetales	
+OTU_4297|o_Actinomycetales	
+OTU_571|o_Actinomycetales	
+OTU_96|o_Solirubrobacterales	
+OTU_63|g_gp3	
+OTU_10255|f_Chitinophagaceae	
+OTU_1219|f_Chitinophagaceae	
+OTU_162|f_Chitinophagaceae	
+OTU_2653|f_Chitinophagaceae	
+OTU_26869|f_Chitinophagaceae	
+OTU_79|f_Chitinophagaceae	
+OTU_975|f_Chitinophagaceae	
+OTU_44|g_Adhaeribacter	
+OTU_26494|g_Chitinophaga	
+OTU_295|g_Chitinophaga	
+OTU_34|g_Chitinophaga	0.9038
+OTU_22820|g_Dyadobacter	0.2719
+OTU_9087|g_Ferruginibacter	-0.6112
+OTU_91|g_Ferruginibacter	
+OTU_14661|g_Flavisolibacter	
+OTU_1595|g_Flavisolibacter	
+OTU_17|g_Flavisolibacter	
+OTU_28619|g_Flavisolibacter	
+OTU_29028|g_Flavisolibacter	
+OTU_38|g_Flavitalea	
+OTU_277|g_Flavobacterium	
+OTU_196|g_Lacibacter	
+OTU_20169|g_Niastella	-0.4689
+OTU_192|g_Ohtaekwangia	
+OTU_22040|g_Ohtaekwangia	
+OTU_3226|g_Ohtaekwangia	-0.4923
+OTU_49|g_Ohtaekwangia	
+OTU_5795|g_Ohtaekwangia	
+OTU_72|g_Ohtaekwangia	
+OTU_177|g_Pontibacter	
+OTU_533|g_Solitalea	
+OTU_16|g_Terrimonas	
+OTU_22983|g_Terrimonas	
+OTU_24744|g_Terrimonas	
+OTU_2834|g_Terrimonas	
+OTU_386|o_Sphingobacteriales	
+OTU_193|g_WPS-1	
+OTU_418|g_WPS-2	-1.1964
+OTU_652|g_WPS-2	
+OTU_7535|f_Anaerolineaceae	-0.2948
+OTU_25517|g_Longilinea	0.5642
+OTU_19207|c_Clostridia	
+OTU_12129|f_Bacillaceae	
+OTU_15598|f_Bacillaceae	
+OTU_19835|f_Bacillaceae	
+OTU_22216|f_Bacillaceae	
+OTU_22228|f_Bacillaceae	
+OTU_22288|f_Bacillaceae	
+OTU_24419|f_Bacillaceae	
+OTU_27554|f_Bacillaceae	
+OTU_27556|f_Bacillaceae	
+OTU_27966|f_Bacillaceae	
+OTU_28133|f_Bacillaceae	
+OTU_28807|f_Bacillaceae	
+OTU_6683|f_Bacillaceae1	
+OTU_27607|f_Planococcaceae	
+OTU_4905|f_Planococcaceae	
+OTU_11183|g_Bacillus	
+OTU_19376|g_Bacillus	
+OTU_19414|g_Bacillus	
+OTU_20216|g_Bacillus	
+OTU_22143|g_Bacillus	
+OTU_25704|g_Bacillus	
+OTU_25881|g_Bacillus	
+OTU_27582|g_Bacillus	
+OTU_381|g_Bacillus	
+OTU_3940|g_Bacillus	
+OTU_54|g_Bacillus	
+OTU_6832|g_Bacillus	
+OTU_28332|g_Falsibacillus	
+OTU_342|g_Terribacillus	
+OTU_11945|o_Bacillales	
+OTU_22539|o_Bacillales	
+OTU_29|o_Clostridiales	
+OTU_59|g_Gemmatimonas	0.4111
+OTU_14101|g_Latescibacteria	
+OTU_172|g_Nitrospira	
+OTU_242|g_Nitrospira	-0.5517
+OTU_346|g_Zavarzinella	
+OTU_1001|c_Alphaproteobacteria	
+OTU_297|c_Alphaproteobacteria	
+OTU_5004|c_Alphaproteobacteria	0.5059
+OTU_203|c_Betaproteobacteria	
+OTU_9|c_Betaproteobacteria	
+OTU_228|c_Deltaproteobacteria	
+OTU_15520|c_Gammaproteobacteria	
+OTU_6073|c_Gammaproteobacteria	
+OTU_11342|f_Comamonadaceae	
+OTU_23110|f_Comamonadaceae	
+OTU_25445|f_Comamonadaceae	
+OTU_5262|f_Comamonadaceae	
+OTU_8037|f_Comamonadaceae	-0.3848
+OTU_19907|f_Erythrobacteraceae	
+OTU_67|f_Erythrobacteraceae	
+OTU_14413|f_Rhizobiaceae	
+OTU_19369|f_Rhizobiaceae	-0.7799
+OTU_229|f_Rhodocyclaceae	
+OTU_167|f_Syntrophobacteraceae	
+OTU_10146|f_Xanthomonadaceae	
+OTU_46|g_Acidovorax	
+OTU_22618|g_Altererythrobacter	-0.975
+OTU_1061|g_Aquabacterium	
+OTU_21452|g_Aquabacterium	
+OTU_178|g_Asticcacaulis	
+OTU_20|g_Bradyrhizobium	
+OTU_152|g_Byssovorax	
+OTU_5219|g_Byssovorax	
+OTU_84|g_Byssovorax	
+OTU_156|g_Cystobacter	0.5308
+OTU_2516|g_Devosia	0.4484
+OTU_66|g_Ensifer	0.8961
+OTU_1325|g_Haliangium	
+OTU_194|g_Haliangium	-0.8086
+OTU_429|g_Herbaspirillum	
+OTU_16392|g_Hyphomicrobium	
+OTU_16807|g_Lysobacter	
+OTU_85|g_Lysobacter	
+OTU_336|g_Massilia	
+OTU_20156|g_Mesorhizobium	
+OTU_22|g_Mesorhizobium	
+OTU_2704|g_Mesorhizobium	
+OTU_27604|g_Mesorhizobium	
+OTU_364|g_Nannocystis	
+OTU_559|g_Nannocystis	
+OTU_119|g_Nitrosospira	-0.5626
+OTU_26546|g_Nitrosospira	0.6322
+OTU_81|g_Phenylobacterium	1.2234
+OTU_25453|g_Porphyrobacter	
+OTU_9567|g_Rhizobacter	
+OTU_226|g_Rhizobium	-0.6732
+OTU_1651|g_Rubrivivax	
+OTU_37|g_Shinella	
+OTU_174|g_Sorangium	
+OTU_18001|g_Sphingomonas	
+OTU_421|g_Sphingopyxis	
+OTU_0|g_Steroidobacter	
+OTU_15587|g_Steroidobacter	
+OTU_18464|g_Steroidobacter	
+OTU_20057|g_Steroidobacter	
+OTU_23941|g_Steroidobacter	
+OTU_24703|g_Steroidobacter	
+OTU_472|g_Tepidimonas	
+OTU_200|g_Vasilyevaea	-0.5957
+OTU_171|o_Rhizobiales	-0.5455
+OTU_20065|o_Syntrophobacterales	0.6682
+OTU_24|o_Xanthomonadales	
+OTU_5117|p_Proteobacteria	-0.7137
+OTU_10712|g_Nitrososphaera	
+OTU_18308|g_Nitrososphaera	
+OTU_26575|g_Nitrososphaera	
+OTU_302|g_Alterococcus	
+OTU_75|g_Opitutus	
+OTU_669|p_Verrucomicrobia	0.4274
