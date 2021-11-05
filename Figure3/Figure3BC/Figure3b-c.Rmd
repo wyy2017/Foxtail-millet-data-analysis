@@ -1,0 +1,115 @@
+---
+title: "Figure3"
+author: "Yayu Wang"
+date: "2021/11/4"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+####Figure 3B #####
+library(reshape2)
+library(ggplot2)
+
+####plate experiment data###
+root=read.csv("Root.csv", header=TRUE)
+height=read.csv("height.csv",header=TRUE)
+
+####plots for plant root length####
+proot=melt(root)
+windows(6,4)
+ggplot(proot, aes(x=variable, y=value, color=variable))+
+  geom_boxplot()+geom_point(size=2)+geom_jitter(shape=16, position=position_jitter(0.2),size=3)+
+  theme_bw()+theme(panel.grid.major =element_blank(), panel.grid.minor = element_blank(),plot.title = element_text(hjust = 0.5))+theme(panel.border = element_blank())+
+  theme(axis.line = element_line(linetype = 1,colour = "black",size = 1),axis.text.x=element_text(colour="black",family="Times",size=10,angle = 45,hjust =1),axis.text.y=element_text(family="Times",size=12,face="plain"))+theme(legend.position="none")+scale_color_manual(values=c("#E69F00","#4169E1","#4169E1","#4169E1","#4169E1","#4169E1","#4169E1","#56B4E9","#56B4E9","#56B4E9","#56B4E9"))+scale_y_continuous(name="Root length(cm)",limits=c(0,8))
+         
+####plots for plant height ####
+pheight=melt(height)
+windows(6,4)
+ggplot(pheight, aes(x=variable, y=value, color=variable))+
+  geom_boxplot()+geom_point(size=2)+geom_jitter(shape=16, position=position_jitter(0.2),size=3)+
+  theme_bw()+theme(panel.grid.major =element_blank(), panel.grid.minor = element_blank(),plot.title = element_text(hjust = 0.5))+theme(panel.border = element_blank())+
+  theme(axis.line = element_line(linetype = 1,colour = "black",size = 1),axis.text.x=element_text(colour="black",family="Times",size=10,angle = 45,hjust =1),axis.text.y=element_text(family="Times",size=12,face="plain"))+theme(legend.position="none")+scale_color_manual(values=c("#E69F00","#4169E1","#4169E1","#4169E1","#4169E1","#4169E1","#4169E1","#56B4E9","#56B4E9","#56B4E9","#56B4E9"))+scale_y_continuous(name="Plant height(cm)",limits=c(0,6))
+
+
+####The P value of plate experiment  was adjusted by BH method###
+ep1=read.csv("epvalue_plate.csv",header=TRUE, row.names = 1)[,1]
+ep2=read.csv("epvalue_plate.csv",header=TRUE, row.names= 1)[,2]
+
+ep1=na.omit(ep1)
+ep2=na.omit(ep2)
+
+ep1=data.frame(p.adjust(ep1, method = "BH"))
+ep2=data.frame(p.adjust(ep2, method = "BH"))
+
+df<- list(ep1=ep1$p.adjust.ep1..method....BH..,ep2=ep2$p.adjust.ep2..method....BH..)
+
+plate.df <- as.data.frame(do.call(rbind,lapply(df, `length<-`,10)))
+
+write.csv(plate.df,"epadjust_plate.csv")
+
+
+####Figure 3C #####
+####sterilized soil experiment data###
+Root_soil=read.csv("Root_soil.csv", header=TRUE)
+Height_soil=read.csv("Height_soil.csv", header=TRUE)
+
+####plots for plant root length####
+R6=melt(Root_soil)
+windows(4,6)
+ggplot(R6, aes(x=variable, y=value, color=variable))+
+  geom_boxplot()+geom_point(size=3)+geom_jitter(shape=16, position=position_jitter(0.2),size=3)+
+  theme_bw()+theme(panel.grid.major =element_blank(), panel.grid.minor = element_blank(),plot.title = element_text(hjust = 0.5))+theme(panel.border = element_blank())+
+  theme(axis.line = element_line(linetype = 1,colour = "black",size = 1),axis.text.x=element_text(colour="black",family="Times",size=10,angle = 45,hjust =1),axis.text.y=element_text(family="Times",size=12,face="plain"))+theme(legend.position="none")+scale_color_manual(values=c("#E69F00","#4169E1","#4169E1","#4169E1","#4169E1","#56B4E9","#56B4E9"))+scale_y_continuous(name="Root lenght(cm)",limits=c(0,10))
+
+####plots for plant height####
+s6=melt(Height_soil)
+windows(4,6)
+ggplot(s6, aes(x=variable, y=value, color=variable))+
+  geom_boxplot()+geom_point(size=3)+geom_jitter(shape=16, position=position_jitter(0.2),size=3)+
+  theme_bw()+theme(panel.grid.major =element_blank(), panel.grid.minor = element_blank(),plot.title = element_text(hjust = 0.5))+theme(panel.border = element_blank())+
+  theme(axis.line = element_line(linetype = 1,colour = "black",size = 1),axis.text.x=element_text(colour="black",family="Times",size=10,angle = 45,hjust =1),axis.text.y=element_text(family="Times",size=12,face="plain"))+theme(legend.position="none")+scale_color_manual(values=c("#E69F00","#4169E1","#4169E1","#4169E1","#4169E1","#56B4E9","#56B4E9"))+scale_y_continuous(name="Plant height(cm)",limits=c(0,15))
+
+
+
+####The P value of sterilized soil experiment  was adjusted by BH method###
+
+ep1=read.csv("epvalue_soil.csv",header=TRUE, row.names = 1)[,1]
+ep2=read.csv("epvalue_soil.csv",header=TRUE, row.names= 1)[,2]
+
+ep1=na.omit(ep1)
+ep2=na.omit(ep2)
+
+ep1=data.frame(p.adjust(ep1, method = "BH"))
+ep2=data.frame(p.adjust(ep2, method = "BH"))
+
+df<- list(ep1=ep1$p.adjust.ep1..method....BH..,ep2=ep2$p.adjust.ep2..method....BH..)
+
+soil.df <- as.data.frame(do.call(rbind,lapply(df, `length<-`,6)))
+
+write.csv(soil.df,"epadjust_soil.csv")
+
+
+
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
