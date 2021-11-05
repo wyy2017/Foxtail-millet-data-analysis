@@ -1,0 +1,1 @@
+The network of associations among the genotypes，marker OTUs and plant traits was dicpicted by software cytoscape  based on the data named "network".
