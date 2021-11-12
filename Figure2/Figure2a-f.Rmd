@@ -30,7 +30,7 @@ for (i in 3:1006){
 colnames(result)[4] <- 'P'
 r<-data.frame(result)
 X<-r[order(r[,4]),]
-X1<-r[1:200,]
+X1<-X[1:200,]
 #write.csv(X1,file="TSLWOTU.csv")
 for (j in X1[1]){paste(j,collapse = "+")}->cc
 
@@ -294,7 +294,7 @@ for (i in 3:1006){
 colnames(result)[4] <- 'P'
 r<-data.frame(result)
 X<-r[order(r[,4]),]
-X1<-r[1:200,]
+X1<-X[1:200,]
 #write.csv(X1,file="MSWOTU.csv")
 for (j in X1[1]){paste(j,collapse = "+")}->cc
 
@@ -559,7 +559,7 @@ for (i in 3:1006){
 colnames(result)[4] <- 'P'
 r<-data.frame(result)
 X<-r[order(r[,4]),]
-X1<-r[1:200,]
+X1<-X[1:200,]
 write.csv(X1,file="MSPDOTU.csv")
 for (j in X1[1]){paste(j,collapse = "+")}->cc
 
@@ -823,7 +823,7 @@ for (i in 3:1006){
 colnames(result)[4] <- 'P'
 r<-data.frame(result)
 X<-r[order(r[,4]),]
-X1<-r[1:200,]
+X1<-X[1:200,]
 #write.csv(X1,file="MSPLOTU.csv")
 for (j in X1[1]){paste(j,collapse = "+")}->cc
 
@@ -1087,7 +1087,7 @@ for (i in 3:1006){
 colnames(result)[4] <- 'P'
 r<-data.frame(result)
 X<-r[order(r[,4]),]
-X1<-r[1:200,]
+X1<-X[1:200,]
 #write.csv(X1,file="MSPWOTU.csv")
 for (j in X1[1]){paste(j,collapse = "+")}->cc
 
@@ -1350,7 +1350,7 @@ for (i in 3:1006){
 colnames(result)[4] <- 'P'
 r<-data.frame(result)
 X<-r[order(r[,4]),]
-X1<-r[1:200,]
+X1<-X[1:200,]
 #write.csv(X1,file="PGWOTU.csv")
 for (j in X1[1]){paste(j,collapse = "+")}->cc
 
